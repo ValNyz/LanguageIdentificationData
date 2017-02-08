@@ -1,0 +1,233 @@
+de	0
+a	0
+o	0
+que	0
+e	0
+do	0
+da	0
+em	0
+um	0
+para	0
+com	0
+não	0
+uma	0
+os	0
+no	0
+se	0
+na	0
+por	0
+mais	0
+as	0
+dos	0
+como	0
+mas	0
+ao	0
+ele	0
+das	0
+à	0
+seu	0
+sua	0
+ou	0
+quando	0
+muito	0
+nos	0
+já	0
+eu	0
+também	0
+só	0
+pelo	0
+pela	0
+até	0
+isso	0
+ela	0
+entre	0
+depois	0
+sem	0
+mesmo	0
+aos	0
+seus	0
+quem	0
+nas	0
+me	0
+esse	0
+eles	0
+você	0
+essa	0
+num	0
+nem	0
+suas	0
+meu	0
+às	0
+minha	0
+numa	0
+pelos	0
+elas	0
+qual	0
+nós	0
+lhe	0
+deles	0
+essas	0
+esses	0
+pelas	0
+este	0
+dele	0
+tu	0
+te	0
+vocês	0
+vos	0
+lhes	0
+meus	0
+minhas	0
+teu	0
+tua	0
+teus	0
+tuas	0
+nosso	0
+nossa	0
+nossos	0
+nossas	0
+dela	0
+delas	0
+esta	0
+estes	0
+estas	0
+aquele	0
+aquela	0
+aqueles	0
+aquelas	0
+isto	0
+aquilo	0
+uns	0
+umas	0
+o senhor	0
+a senhora	0
+a gente	0
+mim	0
+comigo	0
+si	0
+consigo	0
+ti	0
+contigo	0
+conosco	0
+lo	0
+la	0
+los	0
+las	0
+para mim	0
+para você	0
+para o senhor	0
+para a senhora	0
+para ele	0
+para ela	0
+para nós	0
+para vocês	0
+para eles	0
+para elas	0
+do senhor	0
+da senhora	0
+da gente	0
+de vocês	0
+neste	0
+nestes	0
+nesta	0
+nestas	0
+nisto	0
+nesse	0
+nesses	0
+nessa	0
+nessas	0
+nisso	0
+naquele	0
+naqueles	0
+naquela	0
+naquelas	0
+naquilo	0
+deste	0
+destes	0
+desta	0
+destas	0
+disto	0
+desse	0
+desses	0
+dessa	0
+dessas	0
+disso	0
+daquele	0
+daqueles	0
+daquela	0
+daquelas	0
+daquilo	0
+o qual	0
+a qual	0
+os quais	0
+as quais	0
+onde	0
+no qual	0
+na qual	0
+nos quais	0
+nas quais	0
+de quem	0
+do qual	0
+da qual	0
+dos quais	0
+das quais	0
+cujo	0
+cujos	0
+cuja	0
+cujas	0
+o que	0
+de que	0
+em que	0
+para que	0
+por que	0
+quais	0
+com quem	0
+em quem	0
+para quem	0
+de onde	0
+para onde	0
+quanto	0
+quantos	0
+quanta	0
+quantas	0
+alguém	0
+ninguém	0
+algum	0
+alguns	0
+nenhum	0
+alguma	0
+algumas	0
+nenhuma	0
+alguma coisa	0
+alguma algo	0
+nada	0
+bastante	0
+cada	0
+cada um	0
+cada uma	0
+certo	0
+certos	0
+certa	0
+certas	0
+menos	0
+muita	0
+pouco	0
+pouca	0
+muitos	0
+muitas	0
+poucos	0
+poucas	0
+qualquer	0
+tanto	0
+tanta	0
+tantos	0
+tantas	0
+tal	0
+tais	0
+todo	0
+toda	0
+todos	0
+todas	0
+tudo	0
+vários	0
+várias	0

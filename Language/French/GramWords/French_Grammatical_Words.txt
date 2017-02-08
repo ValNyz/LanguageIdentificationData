@@ -1,0 +1,285 @@
+le	0
+la	0
+les	0
+l'	0
+un	0
+une	0
+des	0
+d'	0
+du	0
+de	0
+au	0
+aux	0
+à	0
+ce	0
+cet	0
+cette	0
+ces	0
+mon	0
+ton	0
+son	0
+ma	0
+ta	0
+sa	0
+mes	0
+tes	0
+ses	0
+notre	0
+votre	0
+nos	0
+vos	0
+leur	0
+leurs	0
+quel	0
+quelle	0
+quels	0
+quelles	0
+deux	0
+trois	0
+quatre	0
+cinq	0
+six	0
+sept	0
+huit	0
+neuf	0
+dix	0
+onze	0
+douze	0
+treize	0
+quatorze	0
+quinze	0
+seize	0
+vingt	0
+trente	0
+quarante	0
+cinquante	0
+soixante	0
+cent	0
+mille	0
+premier	0
+deuxième	0
+troisième	0
+quatrième	0
+cinquième	0
+sixième	0
+septième	0
+huitième	0
+neuvième	0
+dixième	0
+onzième	0
+douzième	0
+treizième	0
+quatorzième	0
+quinzième	0
+seizième	0
+centième	0
+millième	0
+aucun	0
+aucune	0
+aucuns	0
+aucunes	0
+maint	0
+mainte	0
+maints	0
+maintes	0
+tel	0
+telle	0
+tels	0
+telles	0
+tout	0
+toute	0
+tous	0
+toutes	0
+chaque	0
+plusieurs	0
+divers	0
+autre	0
+autres	0
+même	0
+mêmes	0
+quelque	0
+quelques	0
+quelconque	0
+quelconques	0
+certain	0
+certaine	0
+certains	0
+certaines	0
+diverse	0
+différents	0
+différentes	0
+nul	0
+nulle	0
+nuls	0
+nulles	0
+// certain, divers, différent et nul sont adjectifs indéfinis s'ils sont placés avant le nom, dans le cas contraire, ils sont adjectifs qualificatifs 
+mais	0
+ou	0
+et	0
+donc	0
+or	0
+ni	0
+car	0
+si	0
+comme	0
+quand	0
+que	0
+au moment où	0
+afin	0
+ainsi	0
+alors	0
+à moins que 	0
+après que	0
+à supposer que	0
+aussitôt que	0
+avant que	0
+lorsque	0
+bien que	0
+pour que	0
+parce que	0
+depuis que	0
+en attendant que	0
+jusqu'à ce que	0
+pendant que	0
+tandis que	0
+puisque	0
+sous prétexte que 	0
+d'autant que	0
+au point que	0
+de façon que	0
+tant que	0
+tellement que	0
+de crainte que	0
+de peur que	0
+suivant que	0
+pourvu que	0
+selon que	0
+dans	0
+par	0
+pour	0
+en	0
+vers	0
+avec	0
+sans	0
+sous	0
+avant	0
+après	0
+chez	0
+entre	0
+dès	0
+hormis	0
+parmi	0
+sauf	0
+sur	0
+ailleurs	0
+plein	0
+je	0
+me	0
+m’	0
+moi	0
+tu	0
+te	0
+t’	0
+toi	0
+nous	0
+vous	0
+il	0
+elle	0
+ils	0
+elles	0
+se	0
+s'	0
+y	0
+lui	0
+soi	0
+eux	0
+celui	0
+celui-ci	0
+celui-là	0
+celle	0
+celle-ci	0
+celle-là	0
+ceux	0
+ceux-ci	0
+ceux-là	0
+celles	0
+celles-ci	0
+celles-là	0
+ceci	0
+cela	0
+ça	0
+le mien	0
+le tien	0
+le sien	0
+la mienne	0
+la tienne	0
+la sienne	0
+les miens	0
+les tiens	0
+les siens	0
+les miennes	0
+les tiennes	0
+les siennes	0
+le nôtre	0
+le vôtre	0
+le leur	0
+la nôtre	0
+la vôtre	0
+la leur	0
+les nôtres	0
+les vôtres	0
+les leurs	0
+qui	0
+quoi	0
+qu'est-ce	0
+lequel	0
+auquel	0
+duquel	0
+laquelle	0
+à laquelle	0
+de laquelle	0
+lesquels	0
+auxquels	0
+desquels	0
+lesquelles	0
+auxquelles	0
+desquelles	0
+on	0
+les uns	0
+les unes	0
+un autre	0
+une autre	0
+d'autres	0
+l'autre	0
+les autres	0
+le même	0
+la même	0
+les mêmes	0
+quelqu'un	0
+quelqu'une	0
+quelques uns	0
+quelques unes	0
+personne	0
+autrui	0
+quiconque	0
+d’aucuns	0
+où	0
+fait	0
+fais	0
+faites	0
+faisons	0
+font	0
+ai	0
+as	0
+//a	0
+avez	0
+avons	0
+ont	0
+suis	0
+es	0
+est	0
+sommes	0
+êtes	0
+sont	0
+oui	0
+non	0

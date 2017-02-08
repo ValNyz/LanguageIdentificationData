@@ -1,0 +1,225 @@
+﻿ad	0
+al	0
+allo	0
+ai	0
+agli	0
+all	0
+agl	0
+alla	0
+alle	0
+con	0
+col	0
+coi	0
+da	0
+dal	0
+dallo	0
+dai	0
+dagli	0
+dall	0
+dagl	0
+dalla	0
+dalle	0
+di	0
+del	0
+dello	0
+dei	0
+degli	0
+dell	0
+degl	0
+della	0
+delle	0
+in	0
+nel	0
+nello	0
+nei	0
+negli	0
+nell	0
+negl	0
+nella	0
+nelle	0
+su	0
+sul	0
+sullo	0
+sui	0
+sugli	0
+sull	0
+sugl	0
+sulla	0
+sulle	0
+per	0
+tra	0
+contro	0
+io	0
+tu	0
+lui	0
+lei	0
+noi	0
+voi	0
+loro	0
+mio	0
+mia	0
+miei	0
+mie	0
+tuo	0
+tua	0
+tuoi	0
+tue	0
+suo	0
+sua	0
+suoi	0
+sue	0
+nostro	0
+nostra	0
+nostri	0
+nostre	0
+vostro	0
+vostra	0
+vostri	0
+vostre	0
+mi	0
+ti	0
+ci	0
+vi	0
+lo	0
+la	0
+li	0
+le	0
+gli	0
+ne	0
+il	0
+un	0
+uno	0
+una	0
+ma	0
+ed	0
+se	0
+perché	0
+anche	0
+come	0
+dov	0
+dove	0
+che	0
+chi	0
+cui	0
+non	0
+più	0
+quale	0
+quanto	0
+quanti	0
+quanta	0
+quante	0
+quello	0
+quelli	0
+quella	0
+quelle	0
+questo	0
+questi	0
+questa	0
+queste	0
+si	0
+tutto	0
+tutti	0
+i	0
+une 	0
+les	0
+l'	0
+un'	0
+dell'	0
+egli	0
+esso	0
+ella	0
+essa	0
+essi	0
+esse	0
+glie	0
+essere	0
+avere	0
+stare	0
+andare	0
+il mio	0
+la mia	0
+i miei	0
+le mie	0
+il tuo	0
+la tua	0
+i tuoi	0
+le tue	0
+il suo	0
+la sua	0
+i suoi	0
+le sue	0
+il nostro	0
+la nostra	0
+i nostri	0
+le nostre	0
+il vostro	0
+la vostra	0
+i vostri	0
+le vostre	0
+il loro	0
+la loro	0
+i loro	0
+le Loro	0
+la loro 	0
+d’	0
+a	0
+all’	0
+dell’	0
+dall’	0
+dale	0
+nell’	0
+fra	0
+sull’	0
+pure	0
+anzi	0
+cioè	0
+comunque	0
+dunque	0
+e	0
+eppure	0
+infatti	0
+in effeti	0
+inoltre	0
+però	0
+neanche	0
+nemmeno	0
+neppure	0
+né	0
+nondimeno	0
+o	0
+oppure	0
+ovvero	0
+ossia	0
+perciò	0
+pertanto	0
+quindi	0
+tuttavia	0
+vale a dire	0
+anziché	0
+ché	0
+finché	0
+giacché	0
+mentre	0
+poiché	0
+purché	0
+qualora	0
+quantunque	0
+quand’anche	0
+sebbene	0
+benché	0
+semmai	0
+sicché	0
+siccome	0
+sono	0
+sei	0
+è	0
+siamo	0
+siete	0
+ho	0
+hai	0
+ha	0
+abbiamo	0
+avete	0
+hanno	0
+tanto	0
+giù	0
